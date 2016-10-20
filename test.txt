@@ -1,5 +1,8 @@
 # Google Start
+
 220.255.2.153 	www.google.com
 220.255.2.153 	google.com
 
 add 111
+
+add master
